@@ -1,0 +1,5 @@
+TC_DOC_ID='1M60sPfVTSd6wpIBQ-yaIzgS0s-1pAoNr57T-1-toxvk'
+DB_LOCATION='/home/rpcody/data/lite_DBs/tc.db'
+CURRENT_DATA_LOCATION='/home/rpcody/data/'
+CHART_DATA_LOCATION='/home/rpcody/public_html/chartData/'
+ICARUS_DOC_ID='/home/rpcody/public_html/chartData/'

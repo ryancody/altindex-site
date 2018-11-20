@@ -1,0 +1,63 @@
+# Empty CSS file for your own CSS
+
+body {
+    background-color: #f8f8f8;
+
+    font-family:'Roboto Mono', monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family:'Roboto Slab', serif;
+}
+
+footer {
+    background-color:#f8f8f8;
+    border:0px 0px 0px 0px;
+    box-shadow:0px 500px 0px 500px #f8f8f8;
+
+    font-family:'Roboto Mono', monospace;
+}
+
+.navbar-brand {
+    font-family:'Roboto Slab', serif;
+    height: 100px;
+}
+
+
+.navlogo {
+    max-width:100%;
+    height:auto;
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 500px) {
+    .navlogo {
+        max-height:75px;
+    }
+}
+
+.nav p {
+    margin: 10px 0 10px 0;
+}
+
+.article-logo {
+    max-width: 100%;
+    height: auto;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+

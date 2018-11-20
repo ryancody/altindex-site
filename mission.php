@@ -1,0 +1,4 @@
+<h3>Mission</h3>
+<p>
+To date, we are not aware of an updated index that trends the value of the altcoin sector. While trading our personal portfolios, we often found it difficult to determine if the altcoin market was functioning as a zero-sum game or if new money (i.e. fiat, bitcoin, ethereum) was entering. We discovered that this knowledge was a critical component in making trading decisions. Our goal is to provide a nearly live-time index to serve as a metric for digital currency investors and traders to assess value in the altcoin sector. Since its inception in early 2016, I have used the T&amp;C 20 as an analytic tool in my personal fund, the “Icarus Fund”, and have successfully traded with increasingly greater profits. It is our hope that you may find it as useful as I did.
+</p>
